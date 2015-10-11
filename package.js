@@ -1,6 +1,6 @@
 Package.describe({
   name: 'clinical:users-picklist',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'User Picklist modal for  ClinicalFramework apps.',
   git: 'https://github.com/awatson1978/clinical-keybindings',
   documentation: 'README.md'

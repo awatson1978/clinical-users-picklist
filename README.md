@@ -1,20 +1,20 @@
-clinical:keybindings
+clinical:users-picklist
 ======================================
 
-Keybindings dialogs for the ClinicalFramework apps.
+User picklist dialog for the ClinicalFramework apps.
 
 ========================================
 #### Installation  
 
 ````sh
-meteor add clinical:keybindings
+meteor add clinical:users-picklist
 ````
 
 ========================================
 #### Usage  
 
 ````js
-{{> keybindingsModal }}
+{{> userPickList }}
 ````
 
 
