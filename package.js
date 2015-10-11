@@ -12,7 +12,7 @@ Package.onUse(function (api) {
   api.use('meteor-platform');
   api.use('grove:less@0.1.1');
   api.use('awatson1978:fonts-helveticas@1.0.4');
-  api.use('clinical:modals');
+  api.use('clinical:modals@0.2.0');
 
   api.addFiles('client/userPicklistModal/userPicklistModal.html', 'client');
   api.addFiles('client/userPicklistModal/userPicklistModal.js', 'client');
